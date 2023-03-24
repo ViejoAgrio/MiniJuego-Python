@@ -62,3 +62,5 @@ grid()
 update()
 onscreenclick(tap)
 done()
+
+#python3 -m flake8 TikTakToe.py
